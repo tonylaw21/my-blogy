@@ -1,0 +1,21 @@
+.header {
+  &__content {
+    padding: 24px 0 48px 0;
+  }
+  &__brand {
+    margin-bottom: 16px;
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  &__link {
+    font-size: 36px;
+    line-height: 54px; 
+  }
+  &__link, &__link:hover {
+    color: #000;
+  }
+  &__link_italic {
+    font-style: italic;
+  }
+} 

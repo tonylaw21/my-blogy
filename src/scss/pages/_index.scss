@@ -1,0 +1,25 @@
+.info-block {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/rectangle.jpg') no-repeat center / cover;
+
+  &__content {
+    padding: 50px 0;
+  }
+  &__text {
+    color: #fff;
+    margin: 0;
+  }
+}
+
+.contacts {
+  background-color: #23374F;
+
+  &__content {
+    padding: 33px 0 31px 0;
+  }
+  &__wrapper-link {
+    text-align: center;
+  }
+  &__link, &__link:hover {
+    color: #fff;
+  }
+} 

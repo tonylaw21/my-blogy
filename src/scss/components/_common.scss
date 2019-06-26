@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans Condensed', sans-serif !important;
+}
+
+* {
+  font-size: 48px;
+  line-height: 72px;
+  font-weight: 300;
+}
+
+.container {
+  max-width: 1180px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.title {
+  text-transform: uppercase;
+  margin-bottom: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+.title_center {
+  text-align: center;
+} 
